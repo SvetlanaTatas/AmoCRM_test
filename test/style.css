@@ -1,0 +1,16 @@
+body {background: #f5f5f5;}
+.forma {width:500px;
+	    margin:10% 35%;
+	    padding: 12px;
+	    background: #fff;
+	    border: 1px solid #e3e3e3;
+	    border-radius:10px;
+       }
+.pole {padding:3px;}
+.pole label {width: 30%;
+             display: inline-block;
+            }
+.pole input {width: 68%;
+             display: inline-block;
+            }
+.button input {width:100%;}
